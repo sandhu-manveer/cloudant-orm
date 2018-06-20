@@ -1,0 +1,14 @@
+{
+  "name": "cloudant-orm",
+  "version": "0.0.1",
+  "description": "ORM library for cloudant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manveer Sandhu <sandhu94manveer@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cloudant": "^1.10.0-NOTICE"
+  }
+}
