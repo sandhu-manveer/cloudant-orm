@@ -1,6 +1,6 @@
 {
   "name": "cloudant-orm",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "ORM library for cloudant",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,7 @@
   "author": "Manveer Sandhu <sandhu94manveer@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "cloudant": "^1.10.0-NOTICE"
+    "cloudant": "^1.10.0-NOTICE",
+    "lodash": "^4.17.10"
   }
 }
